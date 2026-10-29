@@ -1,0 +1,231 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "quote": "Request a Quote",
+    "allProducts": "All products",
+    "switchTo": "العربية",
+    "switchToLabel": "Switch to Arabic"
+  },
+  "a11y": {
+    "skip": "Skip to main content",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "home": "Valley Agriculture home",
+    "whatsapp": "Chat with Valley on WhatsApp"
+  },
+  "cta": {
+    "quote": "Request a Quote",
+    "whatsapp": "Chat on WhatsApp",
+    "call": "Call us",
+    "email": "Email us",
+    "enquireModel": "Enquire about this model",
+    "enquire": "Enquire",
+    "viewAllTractors": "View all tractors",
+    "browseTractors": "Browse tractors",
+    "discover": "Discover",
+    "learnMore": "Learn more",
+    "brochure": "Download brochure (PDF)",
+    "bookService": "Book a service",
+    "backHome": "Back to home"
+  },
+  "label": {
+    "region": "Tractors & Machinery · Bahrain",
+    "featured": "Featured",
+    "sample": "Sample listing",
+    "photoSoon": "Photo coming soon"
+  },
+  "status": {
+    "inStock": "In stock",
+    "onOrder": "On order"
+  },
+  "wa": {
+    "general": "Hello Valley, I'd like to ask about your equipment.",
+    "model": "Hello Valley, I'm interested in the {model}. Please send me a quote.",
+    "category": "Hello Valley, I'd like more information about {category}.",
+    "service": "Hello Valley, I'd like to book a service."
+  },
+  "footer": {
+    "tagline": "Top Tractors & Machinery Trading",
+    "products": "Products",
+    "company": "Company",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "legalName": "Valley Agricultural Tractors & Machinery Trading W.L.L.",
+    "copyright": "© {year} Valley Agricultural Tractors & Machinery Trading W.L.L. All rights reserved."
+  },
+  "home": {
+    "heroEyebrow": "Tractors & Machinery · Bahrain",
+    "heroTitle": "Built for the work. Backed by Valley.",
+    "heroText": "High-quality tractors and agricultural machinery in Bahrain, with expert support from consultation to after-sales.",
+    "statementEyebrow": "Valley Agriculture",
+    "statement": "Our company specializes in the trading of high-quality tractors and agricultural machinery in Bahrain, supporting farmers, contractors and agribusinesses with reliable and efficient equipment.",
+    "featuredEyebrow": "Featured",
+    "featuredTitle": "Featured tractors",
+    "exploreRange": "Explore the range",
+    "rangeEyebrow": "Our range",
+    "rangeTitle": "Equipment for every stage of the season",
+    "tilesTractors": "Tractors",
+    "tilesIrrigation": "Irrigation",
+    "tilesBales": "Bale Handling",
+    "whyEyebrow": "Why Valley",
+    "whyTitle": "Expertise you can rely on, in the field and after the sale.",
+    "whyText": "Driven by expertise and a customer-first approach, we provide end-to-end support, from consultation and installation to maintenance and after-sales service.",
+    "servicesEyebrow": "Services",
+    "servicesTitle": "With you at every stage"
+  },
+  "service": {
+    "consultationTitle": "Consultation",
+    "consultationText": "Expert advice to match the right machine to your land and workload.",
+    "installationTitle": "Installation",
+    "installationText": "Professional setup and commissioning, ready to work from day one.",
+    "maintenanceTitle": "Maintenance",
+    "maintenanceText": "Scheduled servicing that keeps your equipment running at its best.",
+    "aftersalesTitle": "After-sales & spare parts",
+    "aftersalesText": "Ongoing support and spare parts when you need them."
+  },
+  "ctaBand": {
+    "title": "Looking for the right tractor? Tell us what you need.",
+    "text": "Our team will reply with a quote tailored to your requirements."
+  },
+  "about": {
+    "eyebrow": "About Valley",
+    "title": "Supporting Bahrain's agriculture",
+    "p1": "We are a leading provider of tractors, irrigation systems and agricultural machinery in Bahrain, committed to supporting the growth and efficiency of the agricultural sector. With a focus on quality and innovation, we deliver reliable solutions that meet the evolving needs of farmers, contractors and agribusinesses across the region.",
+    "approachTitle": "Our approach",
+    "approachText": "Driven by expertise and a customer-first approach, we provide end-to-end support, from consultation and installation to maintenance and after-sales service.",
+    "whoTitle": "Who we work with",
+    "who1": "Farm owners",
+    "who2": "Contractors",
+    "who3": "Agribusinesses",
+    "who4": "Institutions"
+  },
+  "products": {
+    "eyebrow": "Products",
+    "title": "A complete range of tractors, irrigation systems and agricultural equipment",
+    "tractorsTitle": "Tractors",
+    "tractorsText": "Power, efficiency and reliability for every stage of the farming season.",
+    "otherTitle": "Other equipment"
+  },
+  "tractors": {
+    "eyebrow": "Products",
+    "title": "Tractors",
+    "intro": "Our tractor solutions in Bahrain are built to meet the demands of modern agriculture, delivering power, efficiency and reliability across a wide range of farming operations. We offer a selection of high-performance tractors suitable for land preparation, planting, hauling and heavy-duty fieldwork, ensuring optimal productivity in every season.",
+    "sourcingTitle": "Can't find what you need?",
+    "sourcingText": "We can source machines to order. Tell us your requirements."
+  },
+  "filter": {
+    "hp": "Horsepower",
+    "drive": "Drive",
+    "2wd": "2WD",
+    "4wd": "4WD",
+    "all": "All",
+    "clear": "Clear filters",
+    "results": "{count, plural, one {# model} other {# models}}",
+    "empty": "No models match these filters."
+  },
+  "model": {
+    "keySpecs": "Key specifications",
+    "fullSpecs": "Full specifications",
+    "suitableFor": "Suitable for",
+    "related": "Related models",
+    "gallery": "Gallery"
+  },
+  "spec": {
+    "power": "Engine power",
+    "drive": "Drive",
+    "transmission": "Transmission",
+    "cylinders": "Cylinders",
+    "weight": "Operating weight",
+    "lift": "Rear lift capacity",
+    "pto": "PTO speed",
+    "fuel": "Fuel tank capacity"
+  },
+  "unit": {
+    "hp": "hp",
+    "kg": "kg",
+    "l": "L",
+    "rpm": "rpm",
+    "cyl": "cyl"
+  },
+  "use": {
+    "landPrep": "Land preparation",
+    "planting": "Planting",
+    "hauling": "Hauling",
+    "heavy": "Heavy-duty fieldwork"
+  },
+  "category": {
+    "benefits": "Key benefits",
+    "enquireTitle": "Interested in {category}?",
+    "enquireText": "Tell us about your land and requirements, and we'll recommend the right setup."
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Support from consultation to after-sales",
+    "intro": "Buying a machine is the start of our relationship. Our team supports you at every stage."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your next machine",
+    "text": "Request a quote, book a service or ask a question. We reply within one working day.",
+    "cardTitle": "Talk to us directly",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp"
+  },
+  "form": {
+    "name": "Full name",
+    "company": "Company (optional)",
+    "phone": "Phone number",
+    "email": "Email address",
+    "product": "Product or category",
+    "productNone": "Not sure yet",
+    "subject": "Subject",
+    "subjectQuote": "Request a quote",
+    "subjectService": "Book a service",
+    "subjectGeneral": "General enquiry",
+    "message": "Message",
+    "submit": "Send enquiry",
+    "sending": "Sending…",
+    "required": "This field is required.",
+    "invalidPhone": "Please enter a valid phone number.",
+    "invalidEmail": "Please enter a valid email address.",
+    "success": "Thank you. We've received your enquiry and will reply within one working day.",
+    "error": "Something went wrong. Please try again or contact us on WhatsApp.",
+    "privacy": "By sending this form you agree to our Privacy Policy."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: October 2026",
+    "p1": "Valley Agricultural Tractors & Machinery Trading W.L.L. respects your privacy. This page explains what information we collect through this website and how we use it.",
+    "h2": "Information we collect",
+    "p2": "When you send an enquiry, we collect the details you enter in the form: your name, company, phone number, email address and message. We do not sell or share this information with third parties for marketing.",
+    "h3": "How we use it",
+    "p3": "We use your details only to reply to your enquiry, prepare quotes and provide the services you request.",
+    "h4": "Contact",
+    "p4": "For any question about your data, email info@valleyagrotrading.com."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you're looking for may have moved or no longer exists."
+  },
+  "seo": {
+    "siteName": "Valley Agriculture",
+    "homeTitle": "Valley Agriculture · Tractors & Agricultural Machinery in Bahrain",
+    "homeDesc": "High-quality tractors and agricultural machinery in Bahrain, with consultation, installation, maintenance and after-sales support.",
+    "aboutTitle": "About Valley Agriculture",
+    "aboutDesc": "A leading provider of tractors, irrigation systems and agricultural machinery in Bahrain.",
+    "productsTitle": "Products · Valley Agriculture",
+    "productsDesc": "Tractors, irrigation pivots, irrigation automation and bale handling equipment in Bahrain.",
+    "tractorsTitle": "Tractors for Sale in Bahrain · Valley Agriculture",
+    "tractorsDesc": "High-performance tractors for land preparation, planting, hauling and heavy-duty fieldwork.",
+    "servicesTitle": "Services & After-Sales · Valley Agriculture",
+    "servicesDesc": "Consultation, installation, maintenance and spare parts for your agricultural equipment.",
+    "contactTitle": "Contact & Request a Quote · Valley Agriculture",
+    "contactDesc": "Call +973 37679169 or email info@valleyagrotrading.com.",
+    "privacyTitle": "Privacy Policy · Valley Agriculture"
+  }
+}
