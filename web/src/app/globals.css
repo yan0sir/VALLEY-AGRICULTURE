@@ -58,9 +58,9 @@ html[lang="ar"] {
 }
 
 @layer base {
+  /* Smooth scrolling is handled by Lenis (components/layout/SmoothScroll.tsx), not CSS. */
   html {
     -webkit-text-size-adjust: 100%;
-    scroll-behavior: smooth;
   }
   body {
     background: var(--color-sand-50);

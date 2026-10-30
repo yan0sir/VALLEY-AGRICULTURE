@@ -43,6 +43,9 @@ export function Header({ menu, whatsappHref, phoneHref, phoneDisplay }: Props) {
   // Lock page scroll behind the mobile sheet; Escape closes any open menu.
   useEffect(() => {
     document.documentElement.style.overflow = sheetOpen ? "hidden" : "";
+    // Pause smooth scrolling of the page behind the open menu.
+    if (sheetOpen) window.__lenis?.stop();
+    else window.__lenis?.start();
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
         setSheetOpen(false);
@@ -142,7 +145,7 @@ export function Header({ menu, whatsappHref, phoneHref, phoneDisplay }: Props) {
 
       {/* Mobile menu sheet */}
       {sheetOpen && (
-        <div className="fixed inset-0 z-[60] flex flex-col overflow-y-auto bg-green-900 text-sand-50 lg:hidden" role="dialog" aria-modal="true">
+        <div className="fixed inset-0 z-[60] flex flex-col overflow-y-auto bg-green-900 text-sand-50 lg:hidden" role="dialog" aria-modal="true" data-lenis-prevent>
           <div className="shrink-0 bg-white">
             <div className="site-container flex h-[var(--nav-h)] items-center justify-between">
               <Link href="/" aria-label={t("a11y.home")} className="block">

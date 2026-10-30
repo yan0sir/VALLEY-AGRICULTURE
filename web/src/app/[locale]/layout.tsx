@@ -7,10 +7,12 @@ import { routing, dirFor } from "@/i18n/routing";
 import { Header, type MenuItem } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { WhatsAppFloat } from "@/components/layout/WhatsAppFloat";
+import { SmoothScroll } from "@/components/layout/SmoothScroll";
 import { categories } from "@/content/categories";
 import { pick } from "@/content/types";
 import { site, whatsappLink } from "@/content/site";
 import { metadataBase } from "@/lib/seo";
+import "lenis/dist/lenis.css";
 import "../globals.css";
 
 const hanken = Hanken_Grotesk({ subsets: ["latin"], variable: "--font-hanken", display: "swap" });
@@ -70,6 +72,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
           <main id="main">{children}</main>
           <Footer />
           <WhatsAppFloat />
+          <SmoothScroll />
         </NextIntlClientProvider>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </body>
